@@ -1,15 +1,15 @@
 # Twitter Occupation Network Dataset
-Contains the processed network, used in GCN model and Deep Walk model. Extracted in around February 2018.
-The graph is processed from collected ego-centric Twitter network. Please refer to paper for collection and processing details.
+- Contains the processed graph used in GCN model and Deep Walk model, extracted in around February 2018.
+- The graph is processed from collected ego-centric Twitter network. Please refer to paper for collection and processing details.
 
 
 ## Statistics
-Total number of edges: 586303
-Total number of main users (with real labels): 4557
-Total number of users (including main users): 34603
+- Total number of edges: 586303
+- Total number of main users (with real labels): 4557
+- Total number of users (including main users): 34603
 
 
-## Contents:
+## Contents
 1. twi.follow - user_id [SPACE] user_id
    each line represents an edge
 
