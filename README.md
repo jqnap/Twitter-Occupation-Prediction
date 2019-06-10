@@ -37,7 +37,12 @@ The code for GCN model is forked and modified from https://github.com/tkipf/gcn
 
 ## Citation
 If you find the resource useful to you, please cite: <br>
-Jiaqi Pan, Rishabh Bhardwaj, Wei Lu et al. "Twitter Homophily: Network Based prediction of User's Occupation" (to be appearing at ACL 2019)
+@InProceedings{pan-19-homophily,
+author = {Pan, Jiaqi and Bhardwaj, Rishabh and Lu, Wei and Chieu, Hai Leong and Pan, Xinghao and Puay, Ni Yi},
+title = {Twitter Homophily: Network Based Prediction of User’s Occupation},
+booktitle = {Proceedings of ACL},
+year = {2019}
+}
 
 
 ## Contact
