@@ -35,3 +35,12 @@ We include the jupyter notebook that process the raw network into a densenly con
 The code for GCN model is forked and modified from https://github.com/tkipf/gcn
 
 
+## Citation
+If you find the resource useful to you, please cite: <br>
+Jiaqi Pan, Rishabh Bhardwaj, Wei Lu et al. "Twitter Homophily: Network Based prediction of User's Occupation" (to be appearing at ACL 2019)
+
+
+## Contact
+Please contact `jiaqi.pan1019@gmail.com` if you have any question.
+
+
