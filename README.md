@@ -29,6 +29,7 @@ We include the jupyter notebook that process the raw network into a densenly con
 - 'torch'
 - 'scipy' 
 - 'numpy'
+- 'pandas'
 
 
 ## Acknowledgments
