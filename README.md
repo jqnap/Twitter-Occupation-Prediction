@@ -36,12 +36,13 @@ The code for GCN model is forked and modified from https://github.com/tkipf/gcn
 
 
 ## Citation
-If you find the resource useful to you, please cite: <br>
-@InProceedings{pan-19-homophily,
-author = {Pan, Jiaqi and Bhardwaj, Rishabh and Lu, Wei and Chieu, Hai Leong and Pan, Xinghao and Puay, Ni Yi},
-title = {Twitter Homophily: Network Based Prediction of User’s Occupation},
-booktitle = {Proceedings of ACL},
-year = {2019}
+If you find the resource useful to you, please cite: 
+
+@InProceedings{pan-19-homophily, <br>
+author = {Pan, Jiaqi and Bhardwaj, Rishabh and Lu, Wei and Chieu, Hai Leong and Pan, Xinghao and Puay, Ni Yi}, <br>
+title = {Twitter Homophily: Network Based Prediction of User’s Occupation}, <br>
+booktitle = {Proceedings of ACL}, <br>
+year = {2019} <br>
 }
 
 
