@@ -21,7 +21,7 @@ Code and data accompanying paper "Twitter Homophily: Network Based Prediction of
 
 
 ### Data Processing Script
-We include the jupyter notebook that process the raw network into a densenly connected network which is then used with GCN and DeepWalk.
+We include the jupyter notebook that processes the raw network into a densenly connected network which is then used with GCN and DeepWalk.
 
 
 ## Requirements
