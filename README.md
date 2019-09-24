@@ -26,7 +26,7 @@ We include the jupyter notebook that processes the raw network into a densenly c
 
 ## Requirements
 - 'python=3.6'
-- 'torch'
+- 'torch>=1.0'
 - 'scipy' 
 - 'numpy'
 - 'pandas'
