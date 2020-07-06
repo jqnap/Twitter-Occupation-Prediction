@@ -48,6 +48,6 @@ year = {2019} <br>
 
 
 ## Contact
-Please contact `jiaqi.pan1019@gmail.com` if you have any question.
+Please contact `jiaqi.pan1019@gmail.com` or `rishabhbhardwaj15@gmail.com` if you have any questions.
 
 
